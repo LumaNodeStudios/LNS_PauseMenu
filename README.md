@@ -14,7 +14,7 @@ A modern, high-performance and fully customizable pause menu for FiveM built wit
 
 ## Features
 - **Svelte 5 & Vite**: Extremely fast and lightweight UI with smooth transitions.
-- **Multi-Framework Support**: Out-of-the-box support for **ESX**, **QBCore**, and **Qbox** via a robust bridge system.
+- **Multi-Framework Support**: Out of the box support for **Qbox**, **ESX** and **QBCore** via a bridge system.
 - **Dynamic Theming**: Easily customize primary colors and UI elements to match your server's brand.
 - **Announcement System**: Keep your players informed with a built-in news feed featuring authors, dates, and times.
 - **Information Center**:
@@ -28,6 +28,7 @@ A modern, high-performance and fully customizable pause menu for FiveM built wit
 ## Requirements
 To ensure the pause menu functions correctly, you must have the following dependencies:
 - [ox_lib](https://github.com/overextended/ox_lib)
+- [MugShotBase64](https://github.com/BaziForYou/MugShotBase64)
 - One of the following frameworks:
     - [ESX Legacy](https://github.com/esx-framework/esx_core)
     - [QBCore](https://github.com/qbcore-framework/qb-core)

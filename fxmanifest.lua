@@ -5,8 +5,10 @@ lua54 'yes'
 author 'LumaNode Studios'
 description 'LumaNode Studios - Pause Menu'
 version '1.0.0'
+repository 'https://github.com/LumaNodeStudios/LNS_PauseMenu'
 
 ui_page 'web/dist/index.html'
+-- ui_page 'http://localhost:5173'
 
 files {
     'web/dist/index.html',

@@ -8,8 +8,7 @@ A modern, high-performance and fully customizable pause menu for FiveM built wit
 ---
 
 ## Preview
-![Pause Menu Preview](https://r2.fivemanage.com/ikenZGXRwE4faTVyko8MZ/pausemap.png)
-*(Replace with your own screenshot for the best GitHub experience)*
+![Pause Menu Preview](https://r2.fivemanage.com/ikenZGXRwE4faTVyko8MZ/image_2026-05-11_004334673.png)
 
 ---
 

@@ -7,7 +7,7 @@ A modern, high-performance and fully customizable pause menu for FiveM built wit
 
 ---
 
-## Preview
+## Preview (The screenshot is zoomed in! It's not a full screen UI.)
 ![Pause Menu Preview](https://r2.fivemanage.com/ikenZGXRwE4faTVyko8MZ/image_2026-05-11_004334673.png)
 
 ---
